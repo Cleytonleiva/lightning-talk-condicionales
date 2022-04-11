@@ -1,18 +1,17 @@
 #feliz{
-    background-color: #96FFB7 ;
-    border-radius: 14px;
-    text-align: center;
     color: rgb(56, 52, 52);
+    align-items: center;
 }
 #frustrada{
-    background-color: #B988FF ;
-    border-radius: 14px;
-    text-align: center;
-    color: rgb(56, 52, 52);
+    color: rgb(56, 52, 52);  
 }
 #confundida{
-    background-color: #ffef93 ;
-    border-radius: 14px;
-    text-align: center;
     color: rgb(56, 52, 52); 
+}
+#titulo{
+text-align: center;
+}
+*{
+    background-color: #73FDB7;
+    border-radius: 16px;
 }
